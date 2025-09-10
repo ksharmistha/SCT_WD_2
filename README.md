@@ -11,4 +11,4 @@ Each project demonstrates key concepts of front-end development, DOM manipulatio
 - Record and display lap times  
 - Simple and clean UI  
 
-👉 **Skills Used:** HTML, CSS, JavaScript (setInterval, DOM events)
+👉 **Skills Used:** HTML
